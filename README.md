@@ -5,3 +5,5 @@
 This routine was built with MATLAB release 2022a using guide. The main function is B_Vz_to_Strain_Rate_MarkEWillis_DISC_2022.
 
 You can install the application directly into your Matlab session using the B_Vz_to_Strain_Rate_MarkEWillis_DISC_2022.mlappinstall file.
+
+Release 1 for SEG DISC class
